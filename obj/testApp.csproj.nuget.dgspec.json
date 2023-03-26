@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Etaf Abu Hadda\\testApp\\testApp.csproj": {}
+    "c:\\Users\\Etaf Abu Hadda\\testApp\\testApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Etaf Abu Hadda\\testApp\\testApp.csproj": {
+    "c:\\Users\\Etaf Abu Hadda\\testApp\\testApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Etaf Abu Hadda\\testApp\\testApp.csproj",
+        "projectUniqueName": "c:\\Users\\Etaf Abu Hadda\\testApp\\testApp.csproj",
         "projectName": "testApp",
-        "projectPath": "C:\\Users\\Etaf Abu Hadda\\testApp\\testApp.csproj",
+        "projectPath": "c:\\Users\\Etaf Abu Hadda\\testApp\\testApp.csproj",
         "packagesPath": "C:\\Users\\Etaf Abu Hadda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Etaf Abu Hadda\\testApp\\obj\\",
+        "outputPath": "c:\\Users\\Etaf Abu Hadda\\testApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Etaf Abu Hadda\\AppData\\Roaming\\NuGet\\NuGet.Config",
